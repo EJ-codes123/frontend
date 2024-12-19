@@ -68,7 +68,7 @@ export function GenerateImageForm() {
         // setGeneratedImage(data.file)
         console.log(URLImg)
         setGeneratedImage(URLImg)
-        // toast({
+        //// toast({
         //   title: "Image generated successfully",
         //   description: "Your image has been generated and saved.",
         // })
